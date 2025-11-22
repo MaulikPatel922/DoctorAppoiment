@@ -28,7 +28,8 @@ function App() {
 
   return (
     <AppProvider>
-      <Router future={{ v7_startTransition: true, v7_relativeSplatPath: true }}>
+      <Router   basename="/DoctorAppoiment"
+   future={{ v7_startTransition: true, v7_relativeSplatPath: true }}>
         <Routes>
           <Route path="/" element={<Login setUser={setUser} />} />
           <Route 
