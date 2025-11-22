@@ -3,7 +3,7 @@
   "private": true,
   "version": "1.0.0",
   "type": "module",
-  "homepage": "https://your-MaulikPatel922.github.io/DoctorAppoiment",
+  "homepage": "https://MaulikPatel922.github.io/DoctorAppoiment",
 
   "scripts": {
     "dev": "vite",
